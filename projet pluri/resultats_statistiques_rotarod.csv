@@ -1,0 +1,5 @@
+,t-statistic,p-value
+Group 1: Young mice (Standard diet) vs Group 2: Middle-aged mice (Standard diet),3.197287251852935,0.006048390504678176
+Group 2: Middle-aged mice (Standard diet) vs Group 3: Middle-aged mice (High-fat diet),2.243471782465088,0.03601112912763376
+Group 2: Middle-aged mice (Standard diet) vs Group 4: Middle-aged mice (Calorie restriction),-3.1394551150877366,0.006418698882065119
+Group 3: Middle-aged mice (High-fat diet) vs Group 4: Middle-aged mice (Calorie restriction),-6.992454095388837,1.3632921999549101e-06
